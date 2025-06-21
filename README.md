@@ -7,7 +7,7 @@ A modern, user-friendly desktop application for downloading videos and audio fro
 ## 📦 Download & Installation
 
 1. **Download the Release ZIP**
-   - Go to the [Releases]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases](https://github.com/TarekMohammedgg/video_downloader_app/releases)) section.
+   - Go to the [Releases]([https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases](https://github.com/TarekMohammedgg/video_downloader_app/releases) section.
    - Download the latest release (v1.0.0), `dist.zip`.
 
 2. **Extract the ZIP File**
